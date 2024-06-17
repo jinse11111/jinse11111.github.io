@@ -17,4 +17,4 @@ function loadhtml(url){
 }
 
 
- loadhtml('https://jinse11111.github.io//video.html')
+ loadhtml('https://jinse11111.github.io/video.html')
